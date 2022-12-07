@@ -23,8 +23,8 @@ header {
   width: 100%;
   min-width: 300px;
   height: auto;
-  border-bottom: 15px var(--blue-eye) solid;
-  background-image: url('https://images.wallpapersden.com/image/download/blue-fragment-shards-abstraction_a2plbWeUmZqaraWkpJRnamtlrWZpaWU.jpg');
+  border-bottom: 15px var(--white-eye) solid;
+  background-image: linear-gradient(to bottom right, purple, lightblue);
 }
 .header-content {
   display: flex;

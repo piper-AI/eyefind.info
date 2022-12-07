@@ -23,8 +23,8 @@ header {
   width: 100%;
   min-width: 300px;
   height: auto;
-  border-bottom: 15px var(--yellow-eye) solid;
-  background-color: var(--blue-eye);
+  border-bottom: 15px var(--blue-eye) solid;
+  background-image: url('https://www.peakpx.com/16211547-9999-4f5c-bd0f-4d14a20818a2');
 }
 .header-content {
   display: flex;

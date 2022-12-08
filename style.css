@@ -20,8 +20,7 @@ header {
   width: 100%;
   min-width: 300px;
   height: auto;
-  border-bottom: 15px var(--white-eye) solid;
-background-color: var(--blue-eye);
+  background-color: var(--blue-eye);
 
 }
 .header-content {

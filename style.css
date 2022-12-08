@@ -20,6 +20,10 @@ header {
   width: 100%;
   min-width: 300px;
   height: auto;
+  background-image: url('https://images.unsplash.com/photo-1599209248411-5124adbb1da2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 .header-content {
   display: flex;

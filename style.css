@@ -256,9 +256,6 @@ header {
   display: inline-block;
   width: 170px;
   height: 78px;
-  background-image: url('./assets/img/daily-globe.svg');
-  background-position: center;
-  background-repeat: no-repeat;
 }
 .website-minute {
   width: 100%;
@@ -331,8 +328,6 @@ header {
 }
 .bleets__header span {
   display: inline-block;
-  width: 25px;
-  height: 25px;
   margin-right: 5px;
 }
 .bleets__header h2 {

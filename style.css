@@ -20,8 +20,6 @@ header {
   width: 100%;
   min-width: 300px;
   height: auto;
-  background-color: var(--blue-eye);
-
 }
 .header-content {
   display: flex;

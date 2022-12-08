@@ -334,9 +334,6 @@ header {
   width: 25px;
   height: 25px;
   margin-right: 5px;
-  background-image: url('./assets/icons/bleeter.png');
-  background-position: center;
-  background-repeat: no-repeat;
 }
 .bleets__header h2 {
   font-size: 1.8rem;
